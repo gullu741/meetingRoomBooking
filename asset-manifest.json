@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f1c9492.chunk.css",
-    "main.js": "/static/js/main.b546a735.chunk.js",
-    "main.js.map": "/static/js/main.b546a735.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9f371d94.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9f371d94.js.map",
-    "static/css/2.c3216ceb.chunk.css": "/static/css/2.c3216ceb.chunk.css",
-    "static/js/2.6fa128d0.chunk.js": "/static/js/2.6fa128d0.chunk.js",
-    "static/js/2.6fa128d0.chunk.js.map": "/static/js/2.6fa128d0.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.c3216ceb.chunk.css.map": "/static/css/2.c3216ceb.chunk.css.map",
-    "static/css/main.3f1c9492.chunk.css.map": "/static/css/main.3f1c9492.chunk.css.map",
-    "static/js/2.6fa128d0.chunk.js.LICENSE.txt": "/static/js/2.6fa128d0.chunk.js.LICENSE.txt",
-    "static/media/google-icon.a45b46e9.svg": "/static/media/google-icon.a45b46e9.svg",
-    "static/media/notifications.css": "/static/media/notification.c5d9251e.ttf"
+    "main.css": "/meetingRoomBooking/static/css/main.3f1c9492.chunk.css",
+    "main.js": "/meetingRoomBooking/static/js/main.299f2006.chunk.js",
+    "main.js.map": "/meetingRoomBooking/static/js/main.299f2006.chunk.js.map",
+    "runtime-main.js": "/meetingRoomBooking/static/js/runtime-main.fadb1062.js",
+    "runtime-main.js.map": "/meetingRoomBooking/static/js/runtime-main.fadb1062.js.map",
+    "static/css/2.e9459ace.chunk.css": "/meetingRoomBooking/static/css/2.e9459ace.chunk.css",
+    "static/js/2.4f03c5d2.chunk.js": "/meetingRoomBooking/static/js/2.4f03c5d2.chunk.js",
+    "static/js/2.4f03c5d2.chunk.js.map": "/meetingRoomBooking/static/js/2.4f03c5d2.chunk.js.map",
+    "index.html": "/meetingRoomBooking/index.html",
+    "static/css/2.e9459ace.chunk.css.map": "/meetingRoomBooking/static/css/2.e9459ace.chunk.css.map",
+    "static/css/main.3f1c9492.chunk.css.map": "/meetingRoomBooking/static/css/main.3f1c9492.chunk.css.map",
+    "static/js/2.4f03c5d2.chunk.js.LICENSE.txt": "/meetingRoomBooking/static/js/2.4f03c5d2.chunk.js.LICENSE.txt",
+    "static/media/google-icon.a45b46e9.svg": "/meetingRoomBooking/static/media/google-icon.a45b46e9.svg",
+    "static/media/notifications.css": "/meetingRoomBooking/static/media/notification.c5d9251e.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f371d94.js",
-    "static/css/2.c3216ceb.chunk.css",
-    "static/js/2.6fa128d0.chunk.js",
+    "static/js/runtime-main.fadb1062.js",
+    "static/css/2.e9459ace.chunk.css",
+    "static/js/2.4f03c5d2.chunk.js",
     "static/css/main.3f1c9492.chunk.css",
-    "static/js/main.b546a735.chunk.js"
+    "static/js/main.299f2006.chunk.js"
   ]
 }
