@@ -12,9 +12,11 @@ import {useHistory} from "react-router-dom";
 const ChooseSlot = () => {
     const dispatch = useDispatch();
     const history = useHistory();
-    const [date, setDate] = useState(new Date());
-    const [slotTime, setSlotTime] = useState(null);
-    const [dateSelected, setDateSelected] = useState(false);
+    const prevTime = useSelector(state=>state.user.time)
+    const prevDate = useSelector(state=>state.user.date)
+    const [date, setDate] = useState(prevDate?new Date(moment(prevDate,"DD-MM-YYYY").toDate()):new Date());
+    const [slotTime, setSlotTime] = useState(prevTime||null);
+    const [dateSelected, setDateSelected] = useState(!!prevDate);
 
 
 

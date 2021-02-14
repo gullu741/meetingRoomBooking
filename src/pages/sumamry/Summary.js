@@ -139,7 +139,9 @@ function Summary(props) {
                                 variant="contained"
                                 color="secondary"
                                 style={{width: "100%"}}
-                                onClick={ApiCalendar.handleSignoutClick}
+                                onClick={()=> {
+                                    ApiCalendar.handleSignoutClick()
+                                }}
                             >
                                 Finish
                             </Button>

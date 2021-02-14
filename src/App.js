@@ -7,7 +7,6 @@ import {
 } from "react-router-dom";
 import Login from "./pages/login/Login";
 import ApiCalendar from "react-google-calendar-api";
-import "react-notifications/lib/notifications.css";
 import {useDispatch, useSelector} from "react-redux";
 import NavBar from "./component/navBar/NavBar";
 import {ActionCreators} from "./actions/userActions";
@@ -44,6 +43,7 @@ function App() {
             );
         } else {
             dispatch(ActionCreators.logOut());
+            dispatch(ActionCreators.clear())
         }
     };
 
