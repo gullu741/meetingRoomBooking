@@ -1,5 +1,6 @@
 {
-  "name": "MeetingRoomBooking",
+  "homepage": "https://gullu741.github.io/meetingRoomBooking/",
+  "name": "meeting-room-booking",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +18,6 @@
     "react-google-calendar-api": "^1.2.1",
     "react-google-login": "^5.2.2",
     "react-loader-spinner": "^4.0.0",
-    "react-notifications": "^1.7.2",
     "react-redux": "^7.2.2",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",

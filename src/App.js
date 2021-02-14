@@ -50,7 +50,7 @@ function App() {
     return (
         <>
             <NavBar sign={loggedIn}/>
-            <Router>
+            <Router basename={"meetingRoomBooking"}>
 
                 {!loggedIn ? (
                     <Switch>
